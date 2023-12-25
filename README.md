@@ -13,6 +13,7 @@ OneCopy is a user-friendly file-copying tool designed to simplify the process of
 ## Antivirus Detection
 
 Please note that some antivirus programs might detect OneCopy as a potential threat. This is a common issue with certain software, especially smaller or less-known applications. As of 25.12.2023, OneCopy is detected by 27/72 antivirus engines on VirusTotal.
+https://www.virustotal.com/gui/file/ec329ea09594e228bf44d35fcb6a5ecf5a9f56ac725ed016c3f9f02467118477
 
 **Reasons for Detection:**
 Unfortunately, false positives can occur due to various reasons, such as heuristic analysis, code obfuscation techniques, or the use of certain libraries. The tool is safe to use, and we are actively working to resolve any false positive detections.
